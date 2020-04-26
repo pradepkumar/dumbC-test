@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "792528177846",
+    "firebase_url": "https://dumbctest.firebaseio.com",
+    "project_id": "dumbctest",
+    "storage_bucket": "dumbctest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792528177846:android:313eef743b1fc55e83f417",
+        "android_client_info": {
+          "package_name": "com.pradfactory.dumbctest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "792528177846-c55h2ov42dgc2svr2algvssoph19etav.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOFXFkZyHnDLT0znsbajufklrXRLqLTkk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "792528177846-c55h2ov42dgc2svr2algvssoph19etav.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
